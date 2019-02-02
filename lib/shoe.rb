@@ -10,7 +10,7 @@ class Shoe
     @brand
   end
   
-   def cobble(repaired)
+   def cobble
     puts "the show has been repaired"
     if shoe_is_repaired
     end
