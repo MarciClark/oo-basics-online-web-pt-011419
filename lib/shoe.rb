@@ -13,6 +13,7 @@ class Shoe
    def cobble(repaired)
     puts "the show has been repaired"
     if shoe_is_repaired
+    end
   end
   
 end
